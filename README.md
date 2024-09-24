@@ -20,7 +20,7 @@ In summary, I am a results-oriented individual who is passionate about leveragin
 ![GitHub Stats 3](https://github-readme-stats.vercel.app/api?username=adityajaysawal)
 
 - 🔭 I’m currently working on Data Science Projects
-- 🌱 I’m currently learning Generative AI and Advanced SQL
+- 🌱 I’m currently learning Generative AI and Deep Learning
 - :smile: Happy Learning
 <!--
 **adityajaysawal/adityajaysawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
