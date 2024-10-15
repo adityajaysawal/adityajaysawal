@@ -4,7 +4,7 @@
 
 I am a dedicated and passionate Data Analyst & Data Scientist with a relentless drive for excellence in every project I undertake. With a Bachelor's degree in Mechanical Engineering and a keen interest in the intersection of engineering and data science, I bring a unique blend of technical skills and analytical thinking to the table.
 
-My journey into the world of data began during my undergraduate studies, where I was drawn to the power of data analysis in solving complex problems. Since then, I have honed my skills in programming languages like Python and Java, delved deep into machine learning algorithms, and mastered the art of data visualization.
+My journey into the world of data began during my undergraduate studies, where I was drawn to the power of data analysis in solving complex problems. Since then, I have honed my skills in programming languages like Python and SQL, delved deep into machine learning algorithms, and mastered the art of data visualization.
 
 What sets me apart is not just my technical expertise, but also my ability to translate data insights into actionable strategies. Whether it's building predictive models to forecast future trends or designing intuitive dashboards for data-driven decision-making, I thrive on turning raw data into meaningful solutions that drive business growth.
 
